@@ -1,6 +1,6 @@
 # ratf-rev-pwn-class
 
-## 0. Para os que não tem base nenhuma de linguagem C, recomendo:
+## 0. Para os que não tem base nenhuma de linguagem C, recomendo (pode ser uma lida superficial):
 - http://www.facom.ufu.br/~gustavo/ED1/Apostila_Linguagem_C.pdf
 
 - http://www.ufjf.br/petcivil/files/2009/02/Apostila-de-Introdu%C3%A7%C3%A3o-%C3%A0-Linguagem-C.pdf (um pouco mais curto)
