@@ -24,3 +24,13 @@
  
  #### - Um write-up colocando em pratica os conceitos anteriores: 
  https://brerodrigues.github.io/ctfs/favorites/level-6-overthewire-ctf-leviathan-write-up
+
+## 2. Iniciando na exploração de binários
+ ### - Conhecendo melhor um arquivo ELF
+ https://sergioprado.org/padrao-elf-para-arquivos-objeto/
+
+ ### - Um curso (em vídeo) foda sobre exploitation pelo Fernando Mercês:
+ https://www.youtube.com/watch?v=tkAM8GA4LnM&list=PLIfZMtpPYFP4MaQhy_iR8uM0mJEs7P7s3&index=8
+
+ ### - Os write-ups dos desafios do CTF Narnia
+ https://brerodrigues.github.io/category/CTFs
