@@ -1,5 +1,7 @@
 # ratf-rev-pwn-class
 
+Engenharia reversa é um campo vasto e complexo. Isso aqui pretende ser um compilado de materiais que podem servir para te dar uma luz sobre por onde começar. Tentei me ater aos materiais em pt-br que conheço, mas uma hora ou outra vai ser preciso se meter no english. Google tradutor tá aí fazendo um trabalho bem mais decente do que era há uns anos, então é só usar.
+
 ## 0. Para os que não tem base nenhuma de linguagem C, recomendo (pode ser uma lida superficial):
 - http://www.facom.ufu.br/~gustavo/ED1/Apostila_Linguagem_C.pdf
 
@@ -34,3 +36,4 @@
 
  ### - Os write-ups dos desafios do CTF Narnia
  https://brerodrigues.github.io/category/CTFs
+
