@@ -20,7 +20,7 @@
  
  
  #### - Um desafio para praticar: 
- https://github.com/brerodrigues/CTFs/raw/master/teste
+ https://github.com/brerodrigues/CTFs/raw/master/my_challenges/hello_world_rev
  
  #### - Um write-up colocando em pratica os conceitos anteriores: 
  https://brerodrigues.github.io/ctfs/favorites/level-6-overthewire-ctf-leviathan-write-up
