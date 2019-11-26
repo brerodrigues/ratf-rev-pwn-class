@@ -36,4 +36,8 @@ Engenharia reversa é um campo vasto e complexo. Isso aqui pretende ser um compi
 
  ### - Os write-ups dos desafios do CTF Narnia
  https://brerodrigues.github.io/category/CTFs
+ 
+ ## 3. Daqui em diante
+ 
+ TODO
 
