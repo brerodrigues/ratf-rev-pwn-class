@@ -38,6 +38,9 @@ Engenharia reversa é um campo vasto e complexo. Isso aqui pretende ser um compi
  https://brerodrigues.github.io/category/CTFs
  
  ## 3. Daqui em diante
+ Se você não desistiu antes dessa parte, provavelmente já descobriu o quanto ainda não sabe. Mas essa é a mágica: sempre ter material e coisa nova para a aprender e nunca estar entediado (:
+ Aqui vou adicionar links de materiais que venho usando para meu próprio aprendizado, afinal, também não sou nada mais que um noob. Fica ligado porque daqui para frente a maioria das coisas vai estar em inglês.
  
- TODO
+ ### - Realmente aprenda assembly
+ http://savannah.c3sl.ufpr.br/pgubook/ProgrammingGroundUp-0-8.pdf
 
