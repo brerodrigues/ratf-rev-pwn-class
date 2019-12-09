@@ -43,4 +43,10 @@ Engenharia reversa é um campo vasto e complexo. Isso aqui pretende ser um compi
  
  ### - Realmente aprenda assembly
  http://savannah.c3sl.ufpr.br/pgubook/ProgrammingGroundUp-0-8.pdf
+ 
+ ### - Inicialização de um ELF
+ http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
+ http://bottomupcs.sourceforge.net/csbu/x3564.htm
+ http://eli.thegreenplace.net/2012/08/13/how-statically-linked-programs-run-on-linux
+ http://nairobi-embedded.org/070_elf_c_runtime.html
 
